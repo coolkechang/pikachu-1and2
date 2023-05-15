@@ -182,10 +182,6 @@ const string = `
 .face.left {
   transform: translateX(-160px);
 }
-.face.left > img {
-  transform: rotateY(180deg);
-  transform-origin: 0 0;
-}
 .face.right {
   transform: translateX(160px);
 }
